@@ -1,6 +1,6 @@
 function showContent() {
     var password = prompt("Ingrese la contraseña para ver el contenido:");
-    if (password === "contraseña") {
+    if (password === "hWioEJ08xjfT21t") {
       document.getElementById("contenido").style.display = "block";
     } else {
       alert("Contraseña incorrecta. Inténtalo de nuevo.");
