@@ -13,10 +13,11 @@ p{
 h3{
     text-align: center;
     font-size: larger;
+    
 }
 @media screen and (max-width:500px) {
     body{
-
+        margin-top: 50%;
     }
     button {
       
@@ -29,14 +30,14 @@ h3{
       
     }
     h3{
-        font-size: 6vh;
+        font-size: 20vh;
     }
     a{
         width: 100%;
        
     }
     h1{
-        font-size: 5vh;
+        font-size: 20vh;
     }
   }
 button {
