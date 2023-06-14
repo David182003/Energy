@@ -1,6 +1,11 @@
 body{
      background-color: #e0e8ef;
-     padding-top: 80vh;
+     
+}
+#bloque{
+    height: 80vh;
+    width: 100%;
+    background-color: #006eff00;
 }
 h5{
     text-align: center;
@@ -48,8 +53,8 @@ h3{
 button {
     margin-left: 40%;
     margin-right: 40%;
+    
     width: 20%;
-     margin-top: 50vh;
     align-items: center;
     justify-content: center;
     gap: 10px;
