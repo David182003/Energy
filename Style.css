@@ -1,7 +1,10 @@
 body{
      background-color: #e0e8ef;
 }
-
+h5{
+    text-align: center;
+    font-size: 25px;
+}
 h1{
     text-align: center;
     color: rgb(0, 0, 0);
@@ -9,6 +12,7 @@ h1{
 }
 p{
     text-align: center;
+    font-size: 30px;
 }
 h3{
     text-align: center;
