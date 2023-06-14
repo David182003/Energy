@@ -15,7 +15,7 @@ h3{
     font-size: larger;
     
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:800px) {
     body{
         margin-top: 50%;
     }
